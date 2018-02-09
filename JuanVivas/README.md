@@ -8,4 +8,5 @@
 6. Rapyuta: A Cloud Robotics Platform
 7. Rospeex: A Cloud Robotics Platform for Human-Robot Spoken Dialogues
 8. Social Media Intermediation Robot for Elderly People using External Cloud-based Services
+9. Cloud-assisted Tracking Medical Mobile Robot for Indoor Elderly
 
