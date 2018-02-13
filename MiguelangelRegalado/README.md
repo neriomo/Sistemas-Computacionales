@@ -1,5 +1,30 @@
 
 #### Miguelangel Regalado
+
+#### Por revisar
+* An investigation of the needs on educational robots
+* Children’s Peer Assessment and Self-disclosure in the Presence of an Educational Robot
+* Child, Robot and Educational Material A Triadic Interaction
+* Computational Vision Applied to The Monitoring of Mobile Robots in Educational Robotic Scenarios
+* Development of Biologically Inspired Educational Robots Based on Gliding Locomotion
+* Donnie Robot: Towards an Accessible And Educational Robot for Visually Impaired People
+* Educational Outdoor Mobile Robot for Trash Pickup
+* Educational Robots as Collaborative Learning Objects for Teaching Computer Science
+* Educational Robots as Promotors of Cultural?Development
+* Effects of Collaborative Learning between Educational-Support Robots and Children who Potential Symptoms of a Development Disability
+* Evaluating Peer Versus Teacher Robot within Educational Scenario of Programming Learning
+* Fostering Science and Technology Interest in Chilean Children with Educational Robot Kits
+* Impact of Using an Educational Robot-Based?Learning System on Students Motivation in Elementary Education
+* Incorporating educational robots and visual programming environments in introductory programming courses
+* Integrating Arduino-based Educational Mobile Robots in ROS
+* Introducing i-puck An Educational Mobile Robot
+* Long Term Effects of Educational Robots on a Grade 9 Girls Perceptions of Science and Math
+* MiniDelta Educational Robot with Parallel Kinematic Structure
+* Preliminary Design of Interactive Visual Mobile Programming on Educational Robot ADROIT V1
+* Social Robots in Educational Institutions
+* Spiderino a low-cost robot for swarm research and educational purposes
+* The Role that an Educational Robot Plays
+
 #### Aceptados
 * Developing and Benchmarking Show & Tell Robotic Puppet for Preschool Education: este esta bien
 * Interactive Social Robots in Special Education: este esta bien
