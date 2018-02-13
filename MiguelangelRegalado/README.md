@@ -4,6 +4,7 @@
 * Developing and Benchmarking Show & Tell Robotic Puppet for Preschool Education: este esta bien
 * Interactive Social Robots in Special Education: este esta bien
 * Social Robot as an Assistive Tool in the Classroom: este esta bien
+* Deploying Social Robots as Teaching Aid in Pre-school K2 Classes
 
 #### Rechazados
 
