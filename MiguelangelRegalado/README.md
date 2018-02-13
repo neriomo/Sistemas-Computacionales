@@ -5,6 +5,7 @@
 * An investigation of the needs on educational robots
 * Children’s Peer Assessment and Self-disclosure in the Presence of an Educational Robot
 * Child, Robot and Educational Material A Triadic Interaction
+* Cloud based low cost educational robot
 * Computational Vision Applied to The Monitoring of Mobile Robots in Educational Robotic Scenarios
 * Development of Biologically Inspired Educational Robots Based on Gliding Locomotion
 * Donnie Robot: Towards an Accessible And Educational Robot for Visually Impaired People
@@ -21,6 +22,7 @@
 * Long Term Effects of Educational Robots on a Grade 9 Girls Perceptions of Science and Math
 * MiniDelta Educational Robot with Parallel Kinematic Structure
 * Preliminary Design of Interactive Visual Mobile Programming on Educational Robot ADROIT V1
+* Secure handwriting using a robot arm for educational purpose
 * Social Robots in Educational Institutions
 * Spiderino a low-cost robot for swarm research and educational purposes
 * The Role that an Educational Robot Plays
