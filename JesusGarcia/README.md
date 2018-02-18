@@ -13,4 +13,5 @@
 - ~~Reference Adaptation for Robots in Physical Interactions With Unknown Environments~~
 - Towards adaptive robots based on interaction traces: A user study
 - Towards a user-adaptive context-aware robotic walker with a pathological gait assessment system: First experimental study
+- Using natural language processing (NLP) for designing socially intelligent robots
 - Who Should Robots Adapt to within a Multi-Party Interaction in a Public Space
