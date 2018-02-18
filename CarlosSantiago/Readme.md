@@ -4,8 +4,15 @@ Carpeta de Carlos Santiago.
 
   - 1. (Cloud Robotics: A Software Architecture. For Heterogeneous Large-Scale Autonomous Robots)
   - 2. Cloud based low cost educational robot - IEEE2013
-  - 3. Towards A ROS-Based Autonomous Cloud Robotics Platform for Data Center Monitoring
-  - 4. Cloud-Based Robot Grasping with the Google Object Recognition Engine
-# Artículos Rechazados
+  - 3. Bio-Inspired Therapeutic Pet Robots: Review and Future Direction
+  - 4. Etho-robotics: What kind kind of behaviour can we learn learn from the animals
+  - 5. How Different Types of Animal Robots Differently Influence Elder and Younger Peoples Mental States
+  - 6. Humans attribute emotions to a robot that shows simple behavioural patterns borrowed from dog behaviour
+  - 7. On the utilization of social animals as a model for social robotics
+  - 8. Social behaviours in dog-owner interactions can serve as a model for designing social robots
+  - 9. Using Robots to Understand Animal Cognition
+  - 10. Why is a dog-behaviour-inspired social robot not a doggy-robot
 
-RECHAZADO - A Cloud Robotics System for Telepresence enabling Mobility Impaired People to Enjoy the whole Museum Experience
+# Nota:
+
+Mi tema Cloud Robotics fue cambiado a Interaccion Humano-Robot inspirado en la Interaccion Humano-Animal.
