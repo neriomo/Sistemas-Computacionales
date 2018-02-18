@@ -11,4 +11,6 @@
 - Exploring Embodiment and Dueling Bandit Learning for Preference Adaptation in Human Robot Interaction
 - Information-Driven Multi-Robot Behavior Adaptation to Emotional Intention in Human-Robot Interaction
 - ~~Reference Adaptation for Robots in Physical Interactions With Unknown Environments~~
+- Towards adaptive robots based on interaction traces: A user study
+- Towards a user-adaptive context-aware robotic walker with a pathological gait assessment system: First experimental study
 - Who Should Robots Adapt to within a Multi-Party Interaction in a Public Space
