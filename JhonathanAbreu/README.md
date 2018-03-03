@@ -5,4 +5,5 @@
 * JACO Assistive Robotic Device: Empowering People With Disabilities Through Innovative Algorithms
 * A Novel Concept of the Rehabilitation Training Coach Robot for Patients with Disability
 * Ex-Amp Robot: Expressive Robotic Avatar with Multimodal Emotion Detection to Enhance Communication of Users with Motor Disabilities
+* A Friendly Mobile Entertainment Robot for Disabled Children
 ---
