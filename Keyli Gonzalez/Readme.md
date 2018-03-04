@@ -6,5 +6,5 @@ Diseño preliminar de interfaces de realidad aumentada robot asistencial asibot 
 the little robot that could ... maybe (4)
 Interfaz Humano Computador Aplicada en Robotica de Asistencia
 Estudios de Escenarios de Uso para robot social asistencial para enfermos de alzheimer
-
-
+Huggable Social Robot Probo for Social Story Telling for Robot Assisted Therapy with ASD Children (5)
+Development and evaluation of a social robot platform for therapy in autism
