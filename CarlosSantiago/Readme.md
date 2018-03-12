@@ -12,6 +12,7 @@ Carpeta de Carlos Santiago.
   - 8. Social behaviours in dog-owner interactions can serve as a model for designing social robots
   - 9. Using Robots to Understand Animal Cognition
   - 10. Why is a dog-behaviour-inspired social robot not a doggy-robot
+  - 11. Exploring the effects of interaction with a robot cat for dementia sufferers and their carers
 
 # Nota:
 
