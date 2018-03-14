@@ -22,6 +22,7 @@
 * Long Term Effects of Educational Robots on a Grade 9 Girls Perceptions of Science and Math
 * MiniDelta Educational Robot with Parallel Kinematic Structure
 * Preliminary Design of Interactive Visual Mobile Programming on Educational Robot ADROIT V1
+* Robots Educate in Style The Effect of Context and Non verbal Behaviour on Childrens Perceptions of Warmth and Competence
 * Secure handwriting using a robot arm for educational purpose
 * Social Robots in Educational Institutions
 * Spiderino a low-cost robot for swarm research and educational purposes
