@@ -11,8 +11,9 @@
 - Exploring Embodiment and Dueling Bandit Learning for Preference Adaptation in Human Robot Interaction
 - Information-Driven Multi-Robot Behavior Adaptation to Emotional Intention in Human-Robot Interaction
 - MIRob: An Intelligent Service Robot that Learns from Interactive Discussions while Handling Uncertain Information in User Instructions
+- **Personalizing Robot Behavior for Interruption in Social Human-Robot Interaction**
 - ~~Reference Adaptation for Robots in Physical Interactions With Unknown Environments~~
-- **Robot Behavior Adaptation for Human-Robot Interaction based on Policy Gradient Reinforcement Learning**
+- Robot Behavior Adaptation for Human-Robot Interaction based on Policy Gradient Reinforcement Learning
 - Towards adaptive robots based on interaction traces: A user study
 - Towards a user-adaptive context-aware robotic walker with a pathological gait assessment system: First experimental study
 - Using natural language processing (NLP) for designing socially intelligent robots
