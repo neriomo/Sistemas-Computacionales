@@ -7,4 +7,6 @@
 * Ex-Amp Robot: Expressive Robotic Avatar with Multimodal Emotion Detection to Enhance Communication of Users with Motor Disabilities
 * A Friendly Mobile Entertainment Robot for Disabled Children
 * Robotic assistant for support in speech therapy for children with cerebral palsy
+* REACH robot: Motion capture-based robotic interfaces to enhance engagement and adherence in pediatric rehabilitation
+* Robot companion for domestic health assistance: Implementation, test and case study under everyday conditions in private apartments
 ---
