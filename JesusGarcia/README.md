@@ -4,6 +4,7 @@
 - A Study for Assistant Robotic System using Motion Capture Method for Adapting to Human-robot Interface
 - Adaptation of Robot Physical Behaviour to Human Fatigue in Human-Robot Co-Manipulation
 - Adaptation to a humanoid robot in a collaborative joint task
+- Adapting a Robot's Linguistic Style Based on Socially-Aware Reinforcement Learning
 - ~~Adapting Human Motions to Humanoid Robots Through Time Warping Based on a General Motion Feasibility Index~~
 - Adaptive and Personalised Robots - Learning from Users Feedback
 - ~~Development of a Quadruped Robot with Redundant DOFs for High-degree of Functionality and Adaptation~~
