@@ -27,6 +27,12 @@
 * Social Robots in Educational Institutions
 * Spiderino a low-cost robot for swarm research and educational purposes
 * The Role that an Educational Robot Plays
+* Building Successful Long Child Robot Interactions in a Learning Context
+* CardBot  Assistive Technology for Visually Impaired in Educational Robotics Experiments and Results
+* Learning by teaching a robot
+* Pepper Learns Together with Children
+* Providing a Robot with Learning Abilities Improves its Perception by Users
+* Robot Online Learning to Lift Weights
 
 #### Aceptados
 * Developing and Benchmarking Show & Tell Robotic Puppet for Preschool Education: este esta bien
