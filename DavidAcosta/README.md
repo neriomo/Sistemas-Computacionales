@@ -10,7 +10,8 @@ Carpeta de David Acosta.
   - Artículo 4. (Exploring the Natural Reaction of Young and Aged Person with Telenoid in a Real World).
   - Artículo 5. (MeBot a robotic platform for socially embodied presence).
   - Artículo 6. (Design and development of edgar - a telepresence humanoid for robot-mediated communication and social applications).
-  - Artículo 7. (SEAI: Social Emotional Artificial Intelligence Based on Damasio’s Theory of Mind).
+  - Artículo 7. (Person Following Robot with Vision-based and Sensor Fusion Tracking Algorithm).
+  - Artículo 8. (SEAI: Social Emotional Artificial Intelligence Based on Damasio’s Theory of Mind).
 
 ### Artículos
 
@@ -24,5 +25,6 @@ Lista de Artículos Subidos
 | Artículo 4 | https://www.researchgate.net/publication/235822090_Exploring_the_Natural_Reaction_of_Young_and_Aged_Person_with_Telenoid_in_a_Real_World |
 | Artículo 5 |http://robotic.media.mit.edu/wp-content/uploads/sites/14/2015/01/Sigi-HRI-10.pdf |
 | Artículo 6 |https://www.semanticscholar.org/paper/Design-and-development-of-edgar-a-telepresence-for-Ching-Yue/6c11a1203145c096bad2cf52929a35d17bdedf05 |
-| Artículo 7 |[https://www.researchgate.net/publication/322986103_SEAI_Social_Emotional_Artificial_Intelligence_Based_on_Damasio's_Theory_of_Mind] |
+| Artículo 7 |http://cdn.intechopen.com/pdfs/5205/intech-person_following_robot_with_vision_based_and_sensor_fusion_tracking_algorithm.pdf|
+| Artículo 8 |https://www.researchgate.net/publication/322986103_SEAI_Social_Emotional_Artificial_Intelligence_Based_on_Damasio's_Theory_of_Mind |
 
