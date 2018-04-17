@@ -14,6 +14,7 @@ Carpeta de Carlos Santiago.
   - 10. Why is a dog-behaviour-inspired social robot not a doggy-robot
   - 11. Exploring the effects of interaction with a robot cat for dementia sufferers and their carers
   - 12. Expressing emotions with the social robot probo
+  - 13. Animal-Inspired Human-Robot Interaction: A Robotic Tail for Communicating State.pdf
 
 # Nota:
 
